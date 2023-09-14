@@ -1,1 +1,1 @@
-# auladeGit
+# Teste de aprendizagem do Git
